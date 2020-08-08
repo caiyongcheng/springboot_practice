@@ -1,0 +1,8 @@
+server:
+  port: 8088
+
+database:
+  driverName: "com.mysql.cj.jdbc.Driver"
+  driverUrl: "jdbc:mysql://localhost:3306/user?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8"
+  userName: "root"
+  userPwd: "N13i93n93e73."
